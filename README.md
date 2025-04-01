@@ -110,7 +110,7 @@ rm /etc/nginx/sites-enabled/default
 mkdir -p /var/www/invoice-generator
 
 # Clone repository
-git clone https://github.com/yourusername/free-invoice-generator.git /var/www/invoice-generator
+git clone https://github.com/JamesDGC/free-invoice-generator.git /var/www/invoice-generator
 
 # Set permissions
 chown -R www-data:www-data /var/www/invoice-generator
