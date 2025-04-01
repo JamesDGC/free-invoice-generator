@@ -50,7 +50,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta property="og:description" content="Create professional invoices compliant with ATO requirements. Free to use, no login required.">
     <meta property="og:type" content="website">
     <title>Free Invoice Generator | Australian GST Calculator | ATO Compliant</title>
-    <link href="css/styles.css" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="css/input.css" rel="stylesheet">
     
     <!-- Structured Data for Web Application -->
     <script type="application/ld+json">
