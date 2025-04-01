@@ -1,0 +1,8 @@
+/vendor/
+/node_modules/
+.env
+.DS_Store
+*.log
+/public/css/styles.css
+/public/invoices/*
+!public/invoices/.gitkeep 
