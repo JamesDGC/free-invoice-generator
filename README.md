@@ -1,6 +1,6 @@
 # Free Invoice Generator
 
-A free, ATO-compliant invoice generator for Australian businesses. Built with PHP and Tailwind CSS.
+A private, ATO-compliant invoice generator for Australian businesses. Built with PHP and Tailwind CSS.
 
 ## Features
 
@@ -22,7 +22,7 @@ A free, ATO-compliant invoice generator for Australian businesses. Built with PH
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/JamesDGC/free-invoice-generator.git
+git clone [repository-url]
 cd free-invoice-generator
 ```
 
@@ -110,7 +110,7 @@ rm /etc/nginx/sites-enabled/default
 mkdir -p /var/www/invoice-generator
 
 # Clone repository
-git clone https://github.com/JamesDGC/free-invoice-generator.git /var/www/invoice-generator
+git clone [repository-url] /var/www/invoice-generator
 
 # Set permissions
 chown -R www-data:www-data /var/www/invoice-generator
@@ -155,7 +155,7 @@ npm run build
 
 ## License
 
-MIT License - feel free to use this project for your own purposes.
+Private project - All rights reserved.
 
 ## Contributing
 
