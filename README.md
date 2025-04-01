@@ -22,7 +22,7 @@ A free, ATO-compliant invoice generator for Australian businesses. Built with PH
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/free-invoice-generator.git
+git clone https://github.com/JamesDGC/free-invoice-generator.git
 cd free-invoice-generator
 ```
 
